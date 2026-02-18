@@ -8,7 +8,7 @@ public class Assignment1 {
 
         System.out.println("=== 1. Scope Demo ===");
         {
-            int studentNumber = 194072; // Your actual ID here
+            int studentNumber = 194072;
             int bonus = 500;
             int sum = studentNumber + bonus;
             System.out.println("Calculation inside block: " + sum);
